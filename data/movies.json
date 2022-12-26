@@ -1,6 +1,108 @@
-[
-],
-[
-],
-[
-]
+{
+  "movies": [
+    {
+      "name": "Fury",
+      "year": 2014,
+      "description": "Movie: Military/Action",
+      "director": {
+        "fullName": "David Eyre"
+      },
+      "casts": [
+        {
+          "fullName": "Brad Pitt",
+          "role": "Don Collier"
+        },
+        {
+          "fullName": "John Bernthal",
+          "role": "Grady Travis"
+        },
+        {
+          "fullName": "Shia LaBeouf",
+          "role": "Boyd Swan"
+        }
+      ]
+    },
+    {
+      "name": "World War Z",
+      "year": 2013,
+      "description": "Movie: Horror/Zombie/Action",
+      "director": {
+        "fullName": "Mark Forster"
+      },
+      "casts": [
+        {
+          "fullName": "Brad Pitt",
+          "role": "Jerry Lane"
+        },
+        {
+          "fullName": "Mireille Enos",
+          "role": "Karen Lane"
+        },
+        {
+          "fullName": "James Badge",
+          "role": "Captain Speke"
+        }
+      ]
+    },
+    {
+      "name": "Meet Joe Black",
+      "year": 1998,
+      "description": "Movie: Romance/Fantasy",
+      "director": {
+        "fullName": "Martin Brest"
+      },
+      "casts": [
+        {
+          "fullName": "Anthony Hopkins",
+          "role": "William Parrish"
+        },
+        {
+          "fullName": "Brad Pitt",
+          "role": "Joe Black"
+        },
+        {
+          "fullName": "Claire Forlani",
+          "role": "Susan Parrish"
+        },
+        {
+          "fullName": "Jake Weber",
+          "role": "Drew"
+        }
+      ]
+    },
+    {
+      "name": "The Walking Dead",
+      "year": 2010,
+      "description": "TV Series",
+      "director": {
+        "fullName": "Greg Nicotero"
+      },
+      "casts": [
+        {
+          "fullName": "Norman Reedus",
+          "role": "Daryl Dixon"
+        },
+        {
+          "fullName": "Andrew Lincoln",
+          "role": "Rick Grimes"
+        },
+        {
+          "fullName": "Melissa McBride",
+          "role": "Carol Peletier"
+        },
+        {
+          "fullName": "Lauren Cohan",
+          "role": "Maggie Green"
+        },
+        {
+          "fullName": "Jeffrey Dean Morgan",
+          "role": "Negan"
+        },
+        {
+          "fullName": "Stephen Yan",
+          "role": "Glenn"
+        }
+      ]
+    }
+  ]
+}
