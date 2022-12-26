@@ -11,7 +11,7 @@ import java.util.Map;
 
 public class FileService {
     private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
-    private static final Path PATH = Paths.get("./movies.json");
+    private static final Path PATH = Paths.get("data/movies.json");
 
     public static Map<String, List<Movie>> readFile() {
         String json = "";

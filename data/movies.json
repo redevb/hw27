@@ -1,72 +1,54 @@
 {
   "movies": [
     {
-      "name": "Fury",
-      "year": 2014,
-      "description": "Movie: Military/Action",
+      "name": "Hacksaw Ridge",
+      "year": 2016,
+      "description": "Movie: Military/Drama",
       "director": {
-        "fullName": "David Eyre"
+        "fullName": "Mel Gibson"
       },
-      "casts": [
+      "cast": [
         {
-          "fullName": "Brad Pitt",
-          "role": "Don Collier"
+          "fullName": "Andrew Garfield",
+          "role": "Desmond T. Doss"
         },
         {
-          "fullName": "John Bernthal",
-          "role": "Grady Travis"
+          "fullName": "Luke Bracey",
+          "role": "Smitty Riker"
         },
         {
-          "fullName": "Shia LaBeouf",
-          "role": "Boyd Swan"
+          "fullName": "Vince Vaughn",
+          "role": "Sergeant Howell"
+        },
+        {
+          "fullName": "Sam Worthington",
+          "role": "Captain Glover"
         }
       ]
     },
     {
-      "name": "World War Z",
-      "year": 2013,
-      "description": "Movie: Horror/Zombie/Action",
+      "name": "Avatar",
+      "year": 2009,
+      "description": "Movie: Sci-fi/Action",
       "director": {
-        "fullName": "Mark Forster"
+        "fullName": "James Cameron"
       },
-      "casts": [
+      "cast": [
         {
-          "fullName": "Brad Pitt",
-          "role": "Jerry Lane"
+          "fullName": "Zoe Saldana",
+          "role": "Neytiri"
         },
         {
-          "fullName": "Mireille Enos",
-          "role": "Karen Lane"
+          "fullName": "Sam Worthington",
+          "role": "Jake Sully, Tommy"
         },
         {
-          "fullName": "James Badge",
-          "role": "Captain Speke"
-        }
-      ]
-    },
-    {
-      "name": "Meet Joe Black",
-      "year": 1998,
-      "description": "Movie: Romance/Fantasy",
-      "director": {
-        "fullName": "Martin Brest"
-      },
-      "casts": [
-        {
-          "fullName": "Anthony Hopkins",
-          "role": "William Parrish"
+          "fullName": "Sigourney Weaver",
+          "role": "Grace Augustine"
         },
         {
-          "fullName": "Brad Pitt",
-          "role": "Joe Black"
-        },
-        {
-          "fullName": "Claire Forlani",
-          "role": "Susan Parrish"
-        },
-        {
-          "fullName": "Jake Weber",
-          "role": "Drew"
+          "fullName": "Michelle Rodriguez",
+          "role": "Trudy Chacon"
         }
       ]
     },
@@ -77,7 +59,7 @@
       "director": {
         "fullName": "Greg Nicotero"
       },
-      "casts": [
+      "cast": [
         {
           "fullName": "Norman Reedus",
           "role": "Daryl Dixon"
@@ -101,6 +83,336 @@
         {
           "fullName": "Stephen Yan",
           "role": "Glenn"
+        }
+      ]
+    },
+    {
+      "name": "Avatar 2: The Way of Water",
+      "year": 2022,
+      "description": "Movie: Sci-fi/Action",
+      "director": {
+        "fullName": "James Cameron"
+      },
+      "cast": [
+        {
+          "fullName": "Sam Worthington",
+          "role": "Jake Sully, Tommy"
+        },
+        {
+          "fullName": "Zoe Saldana",
+          "role": "Neytiri"
+        },
+        {
+          "fullName": "Sigourney Weaver",
+          "role": "Kiri"
+        },
+        {
+          "fullName": "Kate Winslet",
+          "role": "Ronal"
+        },
+        {
+          "fullName": "Stephen Lang",
+          "role": "Miles Warritch"
+        },
+        {
+          "fullName": "Cliff Curtis",
+          "role": "Tonowari"
+        }
+      ]
+    },
+    {
+      "name": "I'm legend",
+      "year": 2007,
+      "description": "Movie: Sci-fi/Horror",
+      "director": {
+        "fullName": "Francis Lawrence"
+      },
+      "cast": [
+        {
+          "fullName": "Will Smith",
+          "role": "Robert Neville"
+        },
+        {
+          "fullName": "Alice Braga",
+          "role": "Anna"
+        },
+        {
+          "fullName": "Charlie Tahan",
+          "role": "Ethan"
+        },
+        {
+          "fullName": "Willow Smith",
+          "role": "Marley Neville"
+        },
+        {
+          "fullName": "Sally Richardson",
+          "role": "Zoe Neville"
+        }
+      ]
+    },
+    {
+      "name": "Meet Joe Black",
+      "year": 1998,
+      "description": "Movie: Romance/Fantasy",
+      "director": {
+        "fullName": "Martin Brest"
+      },
+      "cast": [
+        {
+          "fullName": "Anthony Hopkins",
+          "role": "William Parrish"
+        },
+        {
+          "fullName": "Brad Pitt",
+          "role": "Joe Black"
+        },
+        {
+          "fullName": "Claire Forlani",
+          "role": "Susan Parrish"
+        },
+        {
+          "fullName": "Jake Weber",
+          "role": "Drew"
+        }
+      ]
+    },
+    {
+      "name": "World War Z",
+      "year": 2013,
+      "description": "Movie: Horror/Zombie/Action",
+      "director": {
+        "fullName": "Mark Forster"
+      },
+      "cast": [
+        {
+          "fullName": "Brad Pitt",
+          "role": "Jerry Lane"
+        },
+        {
+          "fullName": "Mireille Enos",
+          "role": "Karen Lane"
+        },
+        {
+          "fullName": "James Badge",
+          "role": "Captain Speke"
+        }
+      ]
+    },
+    {
+      "name": "Drive",
+      "year": 2011,
+      "description": "Movie: Action/Crime",
+      "director": {
+        "fullName": "Nicolas Winding Refn"
+      },
+      "cast": [
+        {
+          "fullName": "Ryan Gosling",
+          "role": "Driver"
+        },
+        {
+          "fullName": "Carey Mulligan",
+          "role": "Irene"
+        },
+        {
+          "fullName": "Bryan Cranston",
+          "role": "Shannon"
+        },
+        {
+          "fullName": "Oscar Isaac",
+          "role": "Standard Gabr"
+        }
+      ]
+    },
+    {
+      "name": "Fury",
+      "year": 2014,
+      "description": "Movie: Military/Action",
+      "director": {
+        "fullName": "David Eyre"
+      },
+      "cast": [
+        {
+          "fullName": "Brad Pitt",
+          "role": "Don Collier"
+        },
+        {
+          "fullName": "John Bernthal",
+          "role": "Grady Travis"
+        },
+        {
+          "fullName": "Logan Lerman",
+          "role": "Norman Allison"
+        },
+        {
+          "fullName": "Shia LaBeouf",
+          "role": "Boyd Swan"
+        },
+        {
+          "fullName": "Alicia von Rittberg",
+          "role": "Emma"
+        }
+      ]
+    },
+    {
+      "name": "Mission: Impossible",
+      "year": 1996,
+      "description": "Movie: Action/Thriller",
+      "director": {
+        "fullName": "Brian De Palma"
+      },
+      "cast": [
+        {
+          "fullName": "Tom Cruise",
+          "role": "Ethan Hunt"
+        },
+        {
+          "fullName": "Emmanuelle Beart",
+          "role": "Claire Phelps"
+        },
+        {
+          "fullName": "Jon Voight",
+          "role": "Jim Phelps"
+        },
+        {
+          "fullName": "Rames, Wing",
+          "role": "Luther Stickell"
+        },
+        {
+          "fullName": "Vanessa Redgrave",
+          "role": "Max"
+        },
+        {
+          "fullName": "Jean Reno",
+          "role": "Franz Krueger"
+        }
+      ]
+    },
+    {
+      "name": "Mission: Impossible 2",
+      "year": 2000,
+      "description": "Movie: Action/Thriller",
+      "director": {
+        "fullName": "John Woo, Brian De Palma"
+      },
+      "cast": [
+        {
+          "fullName": "Tom Cruise",
+          "role": "Ethan Hunt"
+        },
+        {
+          "fullName": "Thandie Newton",
+          "role": "Naya Nordoff Hall"
+        },
+        {
+          "fullName": "Dougray Scott",
+          "role": "Sean Ambrose"
+        },
+        {
+          "fullName": "Richard Roxburgh",
+          "role": "Hugh Stump"
+        },
+        {
+          "fullName": "Rames, Wing",
+          "role": "Luther Stickell"
+        },
+        {
+          "fullName": "William Mapother",
+          "role": "Wallis"
+        }
+      ]
+    },
+    {
+      "name": "Forrest Gump",
+      "year": 1994,
+      "description": "Movie: Drama/Romance",
+      "director": {
+        "fullName": "Robert Zemeckis"
+      },
+      "cast": [
+        {
+          "fullName": "Tom Hanks",
+          "role": "Forrest Gump"
+        },
+        {
+          "fullName": "Robin Wright",
+          "role": "Jenny"
+        },
+        {
+          "fullName": "Gary Sinise",
+          "role": "Lieutenant Dan"
+        },
+        {
+          "fullName": "Sally Field",
+          "role": "Mrs. Gump"
+        }
+      ]
+    },
+    {
+      "name": "Mission: Impossible 3",
+      "year": 2006,
+      "description": "Movie: Action/Adventure",
+      "director": {
+        "fullName": "Jay Jay Abrams"
+      },
+      "cast": [
+        {
+          "fullName": "Tom Cruise",
+          "role": "Ethan Hunt"
+        },
+        {
+          "fullName": "Michelle Monaghan",
+          "role": "Julia Hunt"
+        },
+        {
+          "fullName": "Philip Seymour Hoffman",
+          "role": "Owen Davian"
+        },
+        {
+          "fullName": "Rames, Wing",
+          "role": "Luther Stickell"
+        },
+        {
+          "fullName": "Maggie Q",
+          "role": "Zen"
+        },
+        {
+          "fullName": "Simon Pegg",
+          "role": "Benji Dunn"
+        }
+      ]
+    },
+    {
+      "name": "Mission: Impossible Ghost Protocol",
+      "year": 2011,
+      "description": "Movie: Action/Thriller",
+      "director": {
+        "fullName": "Brad Bird"
+      },
+      "cast": [
+        {
+          "fullName": "Tom Cruise",
+          "role": "Ethan Hunt"
+        },
+        {
+          "fullName": "Paula Patton",
+          "role": "Jane Carter"
+        },
+        {
+          "fullName": "Jeremy Renner",
+          "role": "William Brandt"
+        },
+        {
+          "fullName": "Lea Seydoux",
+          "role": "Sabine Moreau"
+        },
+        {
+          "fullName": "Simon Pegg",
+          "role": "Benji Dunn"
+        },
+        {
+          "fullName": "Josh Holloway",
+          "role": "Trevor Hanaway"
         }
       ]
     }
